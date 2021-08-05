@@ -21,19 +21,19 @@ Work experience
   * IQVIA Inc.
   * Duties included: Developing and implementing novel ML models for improving health care services
   * Programming Language: python
-  * Supervisor: Yunlong Wang, Tong Wu, Kejun Huang
+  * Supervisor: [Yunlong Wang](https://scholar.google.com/citations?user=xHv-7cQAAAAJ&hl=en), [Tong Wu](https://www.researchgate.net/profile/Tong-Wu-15), [Kejun Huang](https://cise.ufl.edu/~kejun/)
   
 * Summer 2017: Research Internship
   * University of Florida
   * Duties included: Developing/Implementing clustering algorithms for patient clustering
-  * Supervisor: Tamer Kahveci
+  * Supervisor: [Tamer Kahveci](https://www.cise.ufl.edu/~tamer/)
   
 * Summer 2016: Research Internship 
   * University of Mons
   * Duties included: Training ML models to classify videos
   * Programming Language: python
-  * Supervisor: Yusuf Sahillioglu, Stephen Dupont
-  * 
+  * Supervisor: [Yusuf Sahillioglu](https://user.ceng.metu.edu.tr/~ys/), [Stephane Dupont](https://www.researchgate.net/profile/Stephane-Dupont)
+   
 Skills
 ======
 * Main Programming Languages:
