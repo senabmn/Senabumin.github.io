@@ -1,6 +1,6 @@
 ---
 permalink: /beyond/
-title: "beyond"
+title: "Me Beyond Academic Life"
 author_profile: true
 redirect_from: 
   - /markdown/
@@ -8,12 +8,15 @@ redirect_from:
 ---
 
 ## Cat Mom:
+
   In 2020, I adopted a domestic short hair cat and he is adorable. He loves being loved and he is a very smart guy. His name is **Shadow**, not because he is entirely black but because he follows me wherever I go. Here is a small picture of him!
   
   [Shadow Bumin Debugging](https://github.com/aysegulbumin/aysegulbumin.github.io/blob/master/ShadowBumin.JPG)
   
 ## Fun Fact:
+
 #### Travelled to 21 Countries!
+
 I can not wait to travel to more. Maybe I should do a city version of this list!
   1. Turkey
   2. USA
@@ -36,3 +39,12 @@ I can not wait to travel to more. Maybe I should do a city version of this list!
   19. Hungary
   20. Croatia
   21. Cyrprus
+
+## Books
+
+Here are a few books that I am simultaneously reading/listening.
+
+  1. The Book of Why - Dana Mackenzie and Judea Pearl
+  2. When Breath Becomes Air - Paul Kalanithi
+  3. Finland: The Country of White Lilies - Grigory Spiridonovich Petrov
+
