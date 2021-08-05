@@ -4,7 +4,7 @@ title: "beyond"
 author_profile: true
 redirect_from: 
   - /beyond/
-  - /beyond.html
+  - /markdown.html
 ---
 
 ## Cat Mom:
