@@ -9,7 +9,7 @@ redirect_from:
 
 ## Cat Mom:
   In 2020, I adopted a domestic short hair cat and he is adorable. He loves being loved and he is a very smart guy. His name is **Shadow**, not because he is entirely black but because he follows me wherever I go. Here is a small picture of him!
-  ![Shadow Bumin Debugging](https://github.com/aysegulbumin/aysegulbumin.github.io/blob/master/ShadowBumin.JPG)
+  ![Shadow Bumin Debugging](https://github.com/aysegulbumin/aysegulbumin.github.io/blob/dc80692b436568df47cc7d5756598e3ab5026438/ShadowBumin.JPG)
   
 ## Fun Fact:
 #### Travelled to 21 Countries!
