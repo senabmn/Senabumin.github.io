@@ -59,12 +59,15 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Professional Activities
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Reviewer for the following journal:
+  - IEEE Journal of Selected Topics in Signal Processing (JSTSP)
+* Reviewer for the following conferences: 
+  - International Conference on Artificial Intelligence and Statistics (AISTATS), 2021.
+  - Conference on Neural Information Processing Systems (NeurIPS), 2021
+
+
 Service and leadership
 ======
 * Volunteer for the following conferences:
@@ -74,10 +77,3 @@ Service and leadership
   - CISE Career Fair, &nbsp;&nbsp;&nbsp;&nbsp; *2018-2019*
   - TEDxUF, &nbsp;&nbsp;&nbsp;&nbsp; *2019*
 
-Professional Activities
-======
-* Reviewer for the following journal:
-  - IEEE Journal of Selected Topics in Signal Processing (JSTSP)
-* Reviewer for the following conferences: 
-  - International Conference on Artificial Intelligence and Statistics (AISTATS), 2021.
-  - Conference on Neural Information Processing Systems (NeurIPS), 2021
