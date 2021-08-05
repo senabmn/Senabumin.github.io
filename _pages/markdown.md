@@ -3,7 +3,7 @@ permalink: /beyond/
 title: "beyond"
 author_profile: true
 redirect_from: 
-  - /beyond/
+  - /markdown/
   - /markdown.html
 ---
 
