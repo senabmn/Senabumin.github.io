@@ -15,7 +15,7 @@ redirect_from:
   
 ## Fun Fact
 
-#### Travelled to 21 Countries!
+## Travelled to 21 Countries!
 
 I can not wait to travel to more. Maybe I should do a city version of this list!
   1. Turkey
