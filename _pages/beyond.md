@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /beyond/
+title: "beyond"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /beyond/
+  - /beyond.html
 ---
 
 ## Cat Mom:
