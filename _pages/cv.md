@@ -38,6 +38,7 @@ Skills
 ======
 * Main Programming Languages:
   -Python, C, C++, Matlab
+
 Languages
 ======
 * Turkish (Native)
