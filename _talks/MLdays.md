@@ -8,7 +8,7 @@ date: "Jul 17, 2020"
 location: "Online (AOE)"
 ---
 
-This talk was about Ph.D in Machine Learning. 
+[This talk](https://www.youtube.com/watch?v=kIsayULYBFI&t=147s) was about Ph.D in Machine Learning. 
 
 - Talked about pros and cons of Ph.D. from my point of view,
 - Introduced where my research stands in overall picture of ML 
