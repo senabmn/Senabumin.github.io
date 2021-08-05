@@ -38,7 +38,7 @@ I can not wait to travel to more. Maybe I should do a city version of this list!
   18. Romania
   19. Hungary
   20. Croatia
-  21. Cyrprus
+  21. Cyprus
 
 ## Books
 
