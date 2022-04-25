@@ -11,7 +11,7 @@ redirect_from:
 
   In 2020, I adopted a domestic short hair cat and he is adorable. He loves being loved and he is a very smart guy. His name is **Shadow**, not because he is entirely black but because he follows me wherever I go. Here is a small picture of him!
   
-  ![Shadow Bumin Debugging](https://github.com/aysegulbumin/aysegulbumin.github.io/blob/master/ShadowBumin.JPG)
+  ![Shadow Bumin Debugging](ShadowBumin.png)
   
 ## Fun Fact
 
