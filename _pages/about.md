@@ -16,3 +16,11 @@ redirect_from:
   - theoretical machine learning
   - matrix/tensor optimization 
   - optimization algorithms.
+
+
+## News:
+* (August 2022) We got the best student paper award! Congratulations team! Please check our paper and contact me if you are interested in having a talk!
+[FiT: fiber-based tensor completion for drug repurposing](https://dl.acm.org/doi/abs/10.1145/3535508.3545527)
+* (August 2022) I presented our paper [FiT: fiber-based tensor completion for drug repurposing](https://dl.acm.org/doi/abs/10.1145/3535508.3545527)!
+* (July 2022) I got CNB-MAC Travel Award 2022! I will be attending the CNB-MAC workshop in ACM-BCB 2022, Chicago, USA!
+* (April 2022) I got Gartner Group Graduate Fellowship!  Thanks to everyone who has supported the process. 
