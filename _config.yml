@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Aysegul Bumin"
   avatar           : "HeadShot.png"
-  bio              : "Machine Learning Intern @IQVIA"
-  location         : "Gainesville, FL, USA"
+  bio              : "Applied Scientist Intern @Amazon"
+  location         : "Seattle, WA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=wKM-x78AAAAJ&hl=en"
   email            : aysegul.bumin@ufl.edu
   researchgate     : https://www.researchgate.net/profile/Aysegul-Bumin # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
