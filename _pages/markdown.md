@@ -39,7 +39,8 @@ I can not wait to travel to more. Maybe I should do a city version of this list!
   19. Hungary
   20. Croatia
   21. Cyprus
-  22. Bahamas!
+  22. Bahamas
+  23. Canada!
 
 ## Books
 
