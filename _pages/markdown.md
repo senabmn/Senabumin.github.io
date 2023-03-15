@@ -50,6 +50,6 @@ My Youtube channel is very amateur right now, but I am planning to upload more t
 Here are a few songs that I am simultaneously listening.
 
   1. Protoje - Resist Not Evil
-  2. Rammstein - Any Ramm songs
+  2. Rammstein - Any Ramm song
   3. To be updated :)
 
