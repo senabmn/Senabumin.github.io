@@ -1,6 +1,6 @@
 ---
 permalink: /beyond/
-title: "Me Beyond Academic Life"
+title: "Me Beyond Professional Life"
 author_profile: true
 redirect_from: 
   - /markdown/
