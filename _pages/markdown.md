@@ -43,7 +43,7 @@ I can not wait to travel to more. Maybe I should do a city version of this list!
   23. Thailand
   24. Egypt 
 ## I have a Youtube Channel!
-My Youtube channel is very amateur right now, but I am planning to upload more travel videos! [My Youtube Channel}(https://www.youtube.com/@senabumin4650/featured)
+My Youtube channel is very amateur right now, but I am planning to upload more travel videos! [My Youtube Channel](https://www.youtube.com/@senabumin4650/featured)
 
 ## Songs
 
