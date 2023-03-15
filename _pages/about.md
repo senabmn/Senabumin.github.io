@@ -7,25 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am currently a Student Researcher at **Google** for Spring 2023, working on state of the art NLP benchmarks and building further interesting models. 
-* I was a Research Intern at **Google** in Fall 2022, working with Security, Privacy and Anti-Abuse team using state of the art NLP models and working on building yet another interesting one!
-* I was Applied Science Intern at **Amazon** in Summer 2022, working on recommendation systems with Amazon Kids Personalization team.
-* I am pursuing Ph.D. at **University of Florida** under the supervision of [Dr.Kejun Huang](https://cise.ufl.edu/~kejun/).
-* I was Machine Learning Intern at **IQVIA** during Summer 2021, working on developing machine learning models for improving health care services. 
-* I got my M.Sc. Degree in **Computer Science**  from **University of Florida** (December 2020).
-* My Ph.D research is based on but not limited to 
-  - theoretical machine learning
-  - matrix/tensor optimization 
-  - optimization algorithms.
+* I am currently an R&D and Special Projects Assistant at **Wonderfeel**, a San Francisco based Neutraceutical Biosciences Start-up, working on new formulations and patents, sourcing, deep analysis on new ingredients and start-up matters. 
+* I graduated from Bilkent University in Summer 2022, with a B.Sc. in Molecular Biology and Genetics.
+* I was an Undergraduate Researcher at Ankara University Biotechnology Institute (Oct 2020- Sep 2022), Investigated apoptotic effects of biomolecules on Ovarian Cancer and analysis of the apoptotic effects in mRNA scale. 
+* I was a Research Intern at Ankara University Biotechnology Institute(Aug 2021 - Sep 2021), investigated the regulation of the biosynthesis of
+carotenoids.
+* I was a Research Intern at University of Seville Genetics Department (Jun 2020 - Jul 2020), Worked on development of effective drug candidate molecules from biological organisms in the treatment of breast cancer.
+* I am interested in the broad area of cancer biology, cell death mechanisms, and novel drug candidate molecules. My previous research focus was primarily on developing novel drug candidate molecules obtained from biological organisms and examining the determination of differentiation of miRNA, mRNA, and proteomes of the drug candidate molecules. 
+
+* Recently I am enthusiastic about Longevity, especially Cellular Aging and the science behind it. My current goal is to integrate Longevity practices into my life, improve my cellular health in order to live a longer and healtier life.
 
 
 ## News:
-* (December 2022) I completed my PhD proposal. I am officially a PhD Candidate. 
-* (November 2022) Our paper is published in Transactions on Machine Learning Research (TMLR) Journal! [Stochastic Douglas-Rachford Splitting
-for Regularized Empirical Risk Minimization:
-Convergence, Mini-batch, and Implementation](https://openreview.net/pdf?id=uvDD9rN6Zz)
-* (August 2022) We got the best student paper award! Congratulations team! Please check our paper and contact me if you are interested in having a talk!
-[FiT: fiber-based tensor completion for drug repurposing](https://dl.acm.org/doi/abs/10.1145/3535508.3545527)
-* (August 2022) I presented our paper [FiT: fiber-based tensor completion for drug repurposing](https://dl.acm.org/doi/abs/10.1145/3535508.3545527)!
-* (July 2022) I got CNB-MAC Travel Award 2022! I will be attending the CNB-MAC workshop in ACM-BCB 2022, Chicago, USA!
-* (April 2022) I got Gartner Group Graduate Fellowship!  Thanks to everyone who has supported the process. 
+* (November 2022) I started working at Wonderfeel. 
+* (September 2022) Our paper is published! I feel so proud to see my first ever paper to be published. [The Regulation Role of Ferroptosis Mechanism of Anti-Cancer Drugs and Noncoding RNAs](https://www.ingentaconnect.com/content/ben/cmc/2023/00000030/00000014/art00004;jsessionid=7nbdgdbr79h65.x-ic-live-03)
+* (August 2022) I graduated from Bilkent University with a B.Sc. in Molecular Biology and Genetics!
