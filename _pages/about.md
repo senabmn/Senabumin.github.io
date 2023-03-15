@@ -13,8 +13,6 @@ redirect_from:
 * I was a Research Intern at Ankara University Biotechnology Institute(Aug 2021 - Sep 2021), investigated the regulation of the biosynthesis of
 carotenoids.
 * I was a Research Intern at University of Seville Genetics Department (Jun 2020 - Jul 2020), Worked on development of effective drug candidate molecules from biological organisms in the treatment of breast cancer.
-* I am interested in the broad area of cancer biology, cell death mechanisms, and novel drug candidate molecules. My previous research focus was primarily on developing novel drug candidate molecules obtained from biological organisms and examining the determination of differentiation of miRNA, mRNA, and proteomes of the drug candidate molecules. 
-
 * Recently I am enthusiastic about Longevity, especially Cellular Aging and the science behind it. My current goal is to integrate Longevity practices into my life, improve my cellular health in order to live a longer and healtier life.
 
 
