@@ -9,20 +9,20 @@ redirect_from:
 
 ## Cat Mom
 
-  In 2020, I adopted a domestic short hair cat and he is adorable. He loves being loved and he is a very smart guy. His name is **Shadow**, not because he is entirely black but because he follows me wherever I go. Here is a small picture of him!
+  In 2012, I adopted a cat and he is adorable. He loves being loved and he is a very smart cat. He can be grumpy from time to time. His name is **Ayran**, named after my favorite Turkish drink! Here is a small picture of him!
   
-  ![Shadow Bumin Debugging](ShadowBumin.png)
+  ![Ayran Bumin Being Cute](AyranBumin.png)
   
 ## Fun Fact
 
-## Travelled to 23 Countries!
+## Travelled to 24 Countries!
 
 I can not wait to travel to more. Maybe I should do a city version of this list!
   1. Turkey
   2. USA
   3. Finland
-  4. Mexico
-  5. Russia
+  4. Colombia
+  5. Netherlands
   6. Ukraine
   7. Spain
   8. Poland
@@ -39,14 +39,17 @@ I can not wait to travel to more. Maybe I should do a city version of this list!
   19. Hungary
   20. Croatia
   21. Cyprus
-  22. Bahamas
-  23. Canada!
+  22. Portugal
+  23. Thailand
+  24. Egypt 
+## I have a Youtube Channel!
+My Youtube channel is very amateur right now, but I am planning to upload more travel videos! [My Youtube Channel}(https://www.youtube.com/@senabumin4650/featured)
 
-## Books
+## Songs
 
-Here are a few books that I am simultaneously reading/listening.
+Here are a few songs that I am simultaneously listening.
 
-  1. The Book of Why - Dana Mackenzie and Judea Pearl
-  2. The Midnight Library - Matt Haig
-  3. Finland: The Country of White Lilies - Grigory Spiridonovich Petrov
+  1. Protoje - Resist Not Evil
+  2. Rammstein - Any Ramm songs
+  3. To be updated :)
 
