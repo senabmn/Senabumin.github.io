@@ -9,7 +9,7 @@ redirect_from:
 ---
 * I am currently an R&D and Special Projects Assistant at **Wonderfeel**, a San Francisco based Neutraceutical Biosciences Start-up, working on new formulations and patents, sourcing, deep analysis on new ingredients and start-up matters. 
 * I graduated from **Bilkent University** in Summer 2022, with a **B.Sc. in Molecular Biology and Genetics**.
-* Recently I am enthusiastic about Longevity, especially Cellular Aging and the science behind it. My current goal is to integrate Longevity practices into my life, improve my cellular health in order to live a longer and healtier life.
+* Recently I am enthusiastic about Longevity, especially Cellular Aging and the science behind it. My current goal is to integrate Longevity practices into my life, improve my cellular health in order to live a longer and healthier life.
 
 * I was an Undergraduate Researcher at **Ankara University Biotechnology Institute** (Oct 2020- Sep 2022), Investigated apoptotic effects of biomolecules on **Ovarian Cancer** and analysis of the apoptotic effects in mRNA scale. 
 * I was a Research Intern at **Ankara University Biotechnology Institute** (Aug 2021 - Sep 2021), investigated the regulation of the biosynthesis of
